@@ -1,3 +1,5 @@
+> **⚠️ DEPRECATED** — This repository has been merged into [Feb17/skills](https://github.com/Feb17/skills). See [`skills/jira-description-updater/`](https://github.com/Feb17/skills/tree/main/jira-description-updater) for the latest version.
+
 # jira-description-updater
 
 用于**快速补全和更新 Jira issue description** 的本地 skill。
